@@ -1,0 +1,18 @@
+#viewer {
+    display: flex;
+	justify-content: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10vw;
+	width: 80vw;
+	height: 80vw;
+}
+
+#label {
+	font-family: sans-serif;
+    display: flex;
+	font-size: 16vw;
+	font-weight: bold;
+	justify-content: center;
+	margin-top: 10vw;
+}
